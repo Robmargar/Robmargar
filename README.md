@@ -1,4 +1,4 @@
-<img  src='./log.jpg' height='70px'>
+<img  src='./log.jpg'>
 
 Hi there! 👋 I´m Roberto Martínez
 
