@@ -14,6 +14,11 @@ Soy desarrollador Full-Stack proactivo, excelente compañero de equipo, organiza
                     * Express
 - 📫 Contacto: roberto.mar.garc@gmail.com
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/roberto-mart%C3%ADnez-52ba10215/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
+</p>
+
 <!--
 **Robmargar/Robmargar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
