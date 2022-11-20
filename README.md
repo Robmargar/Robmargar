@@ -24,8 +24,9 @@ Soy desarrollador Full-Stack proactivo, excelente compañero de equipo, organiza
   <li>PostgreSQL</li>
   <li>Express</li>
 </ul>     
-<p>- 📫 Contacto: roberto.mar.garc@gmail.com</p>
-<p>- ⚡ Fun fact: Me gustan el Football Americano (Seattle Seahawks)y el Rugby (Serpientes- México)</p>
+  
+- 📫 Contacto: roberto.mar.garc@gmail.com
+<p> ⚡ Dato Curioso: Me gustan el Football Americano (Seattle Seahawks)y el Rugby (Serpientes- México)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
